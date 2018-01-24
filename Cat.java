@@ -18,5 +18,6 @@ public class Cat {
      while (null != (line = in.readLine())) {
        System.out.println(line);
      }
+     in.close();
   }
 }
