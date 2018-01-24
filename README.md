@@ -14,4 +14,12 @@ The command `wc *.java *.md` outputs:
  34 121 847 total
 ```
 
+# Background
+
+Remember: 
+```
+       wc - print newline, word, and byte counts for each file
+```
+and it prints a total of these three columns at the bottom.
+
 
