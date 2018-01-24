@@ -6,7 +6,7 @@
 1. javac Cat.java
 2. java Cat Cat.java README.md
 
-## Example of UNIX's wc command (your `java wc *` should behave similarly.)
+## Example of UNIX's wc command (your `java Wc *` should behave similarly.)
 The command `wc *.java *.md` outputs:
 ```
  22  62 506 Cat.java
