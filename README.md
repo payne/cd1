@@ -1,6 +1,6 @@
 # Class cat to wc challenge
-1. Take this Cat.java and make a new file/class: wc.java
-   a. Should act like wc.  See example below:
+1. Take this Cat.java and make a new file/class: Wc.java
+2. Should act like wc.  See example below:
 
 ## Running Cat.java
 1. javac Cat.java
